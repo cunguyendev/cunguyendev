@@ -1,0 +1,21 @@
+.main-header {
+  .content {
+    padding-top: 15px;
+
+    &__title {
+      @extend .animate__animated;
+      @extend .animate__bounceInUp;
+
+      font-size: 35px;
+      text-align: center;
+      position: relative;
+
+      &::after {
+        content: attr(data-description);
+        position: absolute;
+        top: 26px;
+        font-size: 12px;
+      }
+    }
+  }
+}
