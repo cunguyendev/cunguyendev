@@ -16,7 +16,7 @@
 ```javascript
 const cunguyendev = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Typescript', 'HTML/CSS', 'PHP'],
+  code: ['JavaScript', 'TypeScript', 'HTML/CSS', 'PHP'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'gaming'],
   technologies: {
     frontEnd: {
