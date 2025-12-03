@@ -19,7 +19,17 @@
 const cuNguyen = {
   location: 'Vietnam 🇻🇳',
   role: 'Software Engineer',
-  focus: ['Mobile Development', 'React Native', 'Web Applications'],
+  specialization: [
+    'Mobile Development',
+    'React Native',
+    'Full-Stack Development',
+  ],
+  expertise: {
+    mobile: ['React Native', 'iOS', 'Android', 'React Native Reanimated'],
+    frontend: ['Next.js', 'React', 'TypeScript', 'Storybook'],
+    backend: ['Node.js', 'Parse Server', 'Firebase', 'PHP/Laravel'],
+    tools: ['Docker', 'Vercel', 'Git', 'VS Code'],
+  },
   currentlyWorking: 'Building seamless cross-platform experiences',
   learning: [
     'Android Native Development',
@@ -99,12 +109,45 @@ const cuNguyen = {
 
 <br/>
 
+## 💼 Professional Experience
+
+### Mobile Development Expertise
+
+- **Cross-Platform Development**: Specialized in React Native for building iOS and Android applications
+- **Performance Optimization**: Expert in React Native Reanimated for smooth 60fps animations
+- **Modern Architecture**: Implementing scalable architectures with clean code principles
+- **CI/CD**: Experience with automated deployment pipelines using Docker and Vercel
+
+### Full-Stack Capabilities
+
+- **Frontend**: Building modern web applications with Next.js, React, and TypeScript
+- **Backend**: Developing robust APIs with Node.js, Parse Server, and Firebase
+- **Component Development**: Creating reusable UI components with Storybook
+- **State Management**: Proficient in modern state management patterns and solutions
+
+<br/>
+
 ## 🌱 Current Focus
 
 - Ensuring Google Play compliance for modern Android apps
 - Mastering React Native architecture and best practices
 - Deep diving into Android native development and optimization
 - Building scalable and maintainable mobile applications
+- Exploring advanced animation techniques with Reanimated
+
+<br/>
+
+## 📈 Development Philosophy
+
+```typescript
+const myApproach = {
+  code: ['Clean', 'Maintainable', 'Scalable'],
+  architecture: ['SOLID Principles', 'Design Patterns', 'Best Practices'],
+  testing: ['Unit Tests', 'Integration Tests', 'E2E Tests'],
+  collaboration: ['Code Reviews', 'Documentation', 'Knowledge Sharing'],
+  continuous: ['Learning', 'Improving', 'Innovating'],
+};
+```
 
 <br/>
 
